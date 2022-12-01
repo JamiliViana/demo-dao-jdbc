@@ -2,6 +2,7 @@ package model.dao;
 
 import model.entities.Department;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public interface DepartmentDao {
